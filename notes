@@ -1,1 +1,5 @@
-
+Step 1 Create VPC with 2AZ
+Step 2 Create Bastion-Host(Public EC2)
+step 3 Create EC2 Private
+Step 4 scp key-pair from computer to bastion
+Step 5 SSH into Bastion followed by Private EC2
